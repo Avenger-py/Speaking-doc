@@ -4,7 +4,7 @@ A LLM+RAG based application, which enables users to chat with text documents (tx
 ## Demo Video 
 ![Video](https://github.com/Avenger-py/Speaking-doc/blob/main/assets/streamlit-app-2024-03-25-22-03-22.gif)
 ## Update
-Website down due you Mistral AI payment issue :(
+Website down due to Mistral AI payment issue :(
 
 ## Coming Soon (Maybe) ##
 1. OCR support
